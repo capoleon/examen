@@ -20,9 +20,7 @@
   <body>
   <br>
   <center>
-<img src="img/logo_tepolesa.png"  width="300" height="100" align= "center">
-<hr>
-</hr>
+
 </center>
 <div class="container">
       <div class="row">
